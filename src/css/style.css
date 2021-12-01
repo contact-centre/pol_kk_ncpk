@@ -856,6 +856,10 @@ input {
 }
 
 @media (min-width: 1200px) {
+	body {
+		width: auto !important;
+	}
+
 	.mobi_short_pol_2 {
 		overflow: auto;
 	}
